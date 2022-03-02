@@ -1,0 +1,15 @@
+pip>= 21.0
+Flask==2.0.3
+tensorflow>=2.6.0
+keras>=2.7.0
+Pillow
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn
+matplotlib>=1.4.3
+pandas>=0.19
+gunicorn==19.9.0
+Werkzeug
+Jinja2
+Werkzeug
+
